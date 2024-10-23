@@ -12,7 +12,7 @@ with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
 requirements = [
-    'Click<8.0',
+    'Click<8.2',
     'pathlib<2.0',
     'humanize<=1.0',
 ]
