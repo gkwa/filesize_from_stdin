@@ -14,7 +14,7 @@ with open('HISTORY.rst') as history_file:
 requirements = [
     'Click<8.2',
     'pathlib<2.0',
-    'humanize<=1.0',
+    'humanize<=4.11.0',
 ]
 
 setup_requirements = ['pytest-runner', ]
